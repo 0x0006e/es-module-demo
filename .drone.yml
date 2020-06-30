@@ -3,4 +3,5 @@ name: default
 
 steps:
 - name: publish  
+  target_branch: master
   image: plugins/gh-pages
