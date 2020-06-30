@@ -6,3 +6,4 @@ steps:
   image: plugins/gh-pages
   settings:
     target_branch: master
+    pages_directory: ./
